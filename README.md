@@ -18,7 +18,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img alt="projeto Horror-Game" src="./gitHub/capa.jpg" width="100%">
+  <img alt="projeto Horror-Game" src="./gitHub/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
